@@ -1,5 +1,3 @@
-# duosystem_avaliacao_tecnica
-
 Desenvolver uma aplicação para controle de atividades.
 
 INSTRUÇÕES DE INSTALAÇÃO
