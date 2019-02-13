@@ -1,0 +1,8 @@
+<?php
+
+DEFINE('URL', 'INSERIR A URL DA APLICAÇÃO');
+
+DEFINE( "MYSQL_HOST", "" );
+DEFINE( "MYSQL_USER", "" );
+DEFINE( "MYSQL_PASSWORD", "" );
+DEFINE( "MYSQL_DB_NAME", "duosystem_teste" );

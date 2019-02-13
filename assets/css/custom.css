@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #f0f0f0!important;
+    width: 100%!important;
+    text-align: left!important;
+    padding: 10px 0!important;
+}
+.logo{
+    margin-left: 20px;
+}
+.logo img{
+    height: 50px;
+}
+
+.div-body{
+    background-color: #9d9d9d;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+#btn-filtrar{
+    margin-top: 25px;
+}
+
+.table-hover tbody td{
+    line-height: 30px!important;
+}
+
+#bt-form{
+    margin-top: 10px!important;
+}
